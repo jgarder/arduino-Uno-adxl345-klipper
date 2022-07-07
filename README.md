@@ -10,8 +10,8 @@
 5. add info about new accelerometer to config
 4. test in console with ACCELEROMETER_QUERY
 
-## pin choice
-# Arduino aliases for atmega168/328/328p boards
+# pin choice
+## Arduino aliases for atmega168/328/328p boards
 [for other board pinouts click here](https://github.com/Klipper3d/klipper/blob/master/config/sample-aliases.cfg)
 [board_pins arduino-standard]
 aliases:
@@ -23,7 +23,7 @@ aliases:
     analog5=PC5, analog6=PE2, analog7=PE3
 	
 ## pin out	
-[Arduino uno SPI pinout](https://www.etechnophiles.com/wp-content/uploads/2020/11/SPI.png)
+![Arduino uno SPI pinout](https://www.etechnophiles.com/wp-content/uploads/2020/11/SPI.png)
 
 ## print.cfg pins
 [adxl345]
