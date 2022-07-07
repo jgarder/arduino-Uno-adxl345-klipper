@@ -1,4 +1,4 @@
-# Coreception-Klipper0.10.0
+# arduino uno (or any atmega328p for this example) and adxl345 - Klipper0.10.0
  
 
 ## Steps
